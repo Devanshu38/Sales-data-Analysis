@@ -4,3 +4,8 @@
 
 ## Visualization graphs:
 ### This section presents various insightful visualizations created from the cleaned sales dataset to uncover trends, patterns, and key business insights. The graphs are designed to be intuitive, informative, and visually engaging, using tools like Matplotlib, Seaborn, and Plotly.
+
+##1.Selection of Chart Types
+![image](https://github.com/user-attachments/assets/f4ad122e-0edf-4644-8413-4d8783502670)
+
+
