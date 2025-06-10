@@ -24,6 +24,7 @@
 ![image](https://github.com/user-attachments/assets/598cc9cf-a727-4d4c-9690-78892b57cb59)
 
 ##4. Interpretation and storytelling with data
+
 ![image](https://github.com/user-attachments/assets/1a894045-5577-4a72-84e3-e0dc46809c33)
 
 ![image](https://github.com/user-attachments/assets/126dcd0e-efe2-49fc-a560-12bf60d16e32)
